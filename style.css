@@ -1,0 +1,16 @@
+body {
+    background-color: #3e74c5;
+    overflow: hidden;
+}
+
+.sherpa {
+    position: absolute;
+    top: 50%; left: 50%;
+    width: 15%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
